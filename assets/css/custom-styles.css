@@ -4,7 +4,7 @@
     border-bottom: 0px;
 }
 
-#main-title {
+#main-title:hover {
     color: rgb(252,69,76);
 }
 
